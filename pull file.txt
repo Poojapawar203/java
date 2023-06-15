@@ -1,5 +1,0 @@
-pull file
-push
-fetch
-add
-clean
